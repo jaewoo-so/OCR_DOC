@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OCR_bio", "OCR_bio\OCR_bio.pyproj", "{E8A3268D-1243-48C9-89A8-2E17BC994137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8A3268D-1243-48C9-89A8-2E17BC994137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A3268D-1243-48C9-89A8-2E17BC994137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0893B79-C8CA-4462-9D93-E46820DF85D4}
+	EndGlobalSection
+EndGlobal
